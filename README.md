@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Deepanjan also known as DocktrinDG
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : 
+- 👋 Hi, I’m Deepanjan also known as DocktrinDG.
+- 👀 I’m interested in knowing the reson of our existance.
+- 🌱 I’m currently learning coding,maths and a bit of everything.
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me : via space shuttle only. 
 - 😄 Pronouns: lil bit weak in morden grammar
 - ⚡ Fun fact: they aren't that funny anymore.
 
